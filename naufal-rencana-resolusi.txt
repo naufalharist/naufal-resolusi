@@ -1,5 +1,10 @@
-Rencana belajar bahasa pemrograman lain
+Rencana belajar bahasa pemrograman & sistem lain
+
 - Git & GitHub
+  * Instalasi Git di lokal
+
 - Javascript
+  * Frameworks Javascript
+
 - PHP Frameworks
 - Kotlin
