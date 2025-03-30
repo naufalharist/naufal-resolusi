@@ -6,6 +6,10 @@ Rencana belajar bahasa pemrograman & sistem lain
 
 - Javascript
   * Frameworks Javascript
+    ^ Vue
 
 - PHP Frameworks
+  ^ Laravel
+
 - Kotlin
+- Python
