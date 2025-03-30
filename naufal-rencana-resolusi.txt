@@ -11,6 +11,5 @@ Rencana belajar bahasa pemrograman & sistem lain
 
 - PHP Frameworks
   ^ Laravel
-
-- Kotlin
 - Python
+
